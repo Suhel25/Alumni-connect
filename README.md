@@ -1,1 +1,2 @@
 # Alumni-connect
+<p>AlumniConnect is a web-based platform connecting alumni and current students of an educational institution. It fosters professional networking, mentorship, and resource sharing while enabling alumni to support students through job opportunities, internships, and insights. Additionally, it promotes alumni engagement with their alma mater through funding and collaborative initiatives.</p>
